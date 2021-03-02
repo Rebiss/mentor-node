@@ -1078,11 +1078,6 @@ split2@^3.1.1:
   dependencies:
     readable-stream "^3.0.0"
 
-start@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/start/-/start-5.1.0.tgz#1c171f0ef9487f56d0ab9a755ace860169208763"
-  integrity sha1-HBcfDvlIf1bQq5p1Ws6GAWkgh2M=
-
 "statuses@>= 1.5.0 < 2", statuses@~1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-1.5.0.tgz#161c7dac177659fd9811f43771fa99381478628c"
